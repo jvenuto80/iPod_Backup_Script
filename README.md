@@ -1,6 +1,6 @@
 # iPod Music Backup Script
 
-This script copies and organizes music files from an iPod (mounted in disk mode) to your Mac, preserving metadata and folder structure.
+This script copies and organizes music files from an iPod (mounted in disk mode) to your Mac, preserving metadata and folder structure. Tested with iPod Video.
 
 ## Features
 - Copies MP3, M4A, M4P, and AAC files from your iPod.
